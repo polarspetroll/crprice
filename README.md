@@ -60,3 +60,11 @@ chmod +x install.sh
 
 - price of currency. 
 - average price of currency in past 24h.
+
+#### view history in Mysql(recommended)
+
+```
+USE crprice;
+
+SELECT * FROM data;
+```
