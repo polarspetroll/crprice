@@ -13,11 +13,11 @@ after each time of price checkings , it will automatically sorts prices in datab
 
 ### requirements
 
-**mysql**
+- **mysql**
 
-**ruby**
+- **ruby**
 
-**smtp server** (I used free google smtp server)
+- **smtp server** (I used free google smtp server)
 
 ### installation
 
