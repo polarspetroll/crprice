@@ -28,6 +28,8 @@ after you installed mysql , its time to create database and table.
 ```
 CREATE DATABASE crprice;
 
+USE crprice;
+
 CREATE TABLE data (currency VARCHAR(10), capture_time VARCHAR(30), price VARCHAR(20));
 ```
 
