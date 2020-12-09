@@ -54,3 +54,7 @@ chmod +x install.sh
     --email       email of recever
     --history     get the history of last checks
 ```
+#### included informations 
+
+- price of currency. 
+- average price of currency in past 24h.
