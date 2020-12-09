@@ -9,7 +9,7 @@ currency price checker including mail notifier and database
 ## introduction 
 this script makes your life easier! all you need is mail server and database .
 this script sends you any currency prices every day , Just check your email ! 
-after each time of price checkings , it will automatically sorts prices in database so you could check them anytime.
+after each time of price checkings , it will automatically sorts the price in database so you could check them anytime.
 
 ### requirements
 
