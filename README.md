@@ -36,6 +36,8 @@ CREATE TABLE data (currency VARCHAR(10), capture_time VARCHAR(30), price VARCHAR
 **installing the program**
 
 ```bash
+git clone https://github.com/polarspetroll/crprice.git && cd crprice
+
 chmod +x install.sh
 
 ./install.sh
