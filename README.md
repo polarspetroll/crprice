@@ -1,4 +1,5 @@
-# crprice
+# :moneybag:crprice:moneybag:
+
 currency price checker including mail notifier and database
 # futures
 - email notification 
@@ -13,15 +14,15 @@ after each time of price checkings , it will automatically sorts the price in da
 
 ### requirements
 
-- **mysql**
+- :globe_with_meridians: **mysql**
 
-- **ruby**
+- :diamonds: **ruby**
 
-- **smtp server** (I used free google smtp server)
+- :email: **smtp server** (I used free google smtp server)
 
 ### installation
 
-**creating database**
+**creating database**:hammer:
 
 after you installed mysql , its time to create database and table.
 
@@ -33,7 +34,7 @@ USE crprice;
 CREATE TABLE data (currency VARCHAR(10), capture_time VARCHAR(30), price VARCHAR(20));
 ```
 
-**installing the program**
+**installing the program**:wrench:
 
 ```bash
 git clone https://github.com/polarspetroll/crprice.git && cd crprice
