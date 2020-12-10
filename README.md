@@ -25,7 +25,7 @@ after each time of price checkings , it will automatically sorts the price in da
 
 after you installed mysql , its time to create database and table.
 
-```
+```sql
 CREATE DATABASE crprice;
 
 USE crprice;
@@ -65,7 +65,7 @@ chmod +x install.sh
 
 #### view history in Mysql(recommended)
 
-```
+```sql
 USE crprice;
 
 SELECT * FROM data;
