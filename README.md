@@ -24,14 +24,10 @@ after each time of price checkings , it will automatically sorts the price in da
 
 **creating database**:hammer:
 
-after you installed mysql , its time to create database and table.
+after you installed mysql , its time to create database.
 
 ```sql
 CREATE DATABASE crprice;
-
-USE crprice;
-
-CREATE TABLE data (currency VARCHAR(10), capture_time VARCHAR(30), price VARCHAR(20));
 ```
 
 **installing the program**:wrench:
