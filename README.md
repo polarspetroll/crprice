@@ -1,7 +1,7 @@
 # :moneybag:crprice:moneybag:
 
 currency price checker including mail notifier and database
-# futures
+# feature
 - email notification 
 
 - automatic data sorting
